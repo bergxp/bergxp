@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Valdemberg Gomes
 
-- 🔭 Apaixonado por tecnologia
-- 💻 Front-end development
+- 🔭 Apaixonado por tecnologia e sempre em busca de novos conhecimentos.
 - 📓 Atualmente estudando ReactJS e TypeScript
 <div align="center">
   <a href="https://github.com/bergxp">
